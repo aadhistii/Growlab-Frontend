@@ -1,0 +1,76 @@
+@import '../../assets/main.scss';
+
+.card {
+    border-radius: 12px;
+}
+
+.max-height {
+    height: 800px;
+}
+
+a {
+    color: $mysin;
+}
+
+.profpic {
+    width: 100px;
+    height: 100px;
+}
+
+.pill-wrapper {
+
+    .pill-1 {
+        color: $seasalt-dark;
+        background-color: $seasalt-light;
+    }
+
+    .pill-2 {
+        color: $shamrock;
+        background-color: $shamrock-light;
+    }
+
+    .pill-3 {
+        background-color: $silver-light;
+    }
+}
+
+.fw-small {
+    font-size: small;
+}
+
+.info {
+    a {
+        color: $shamrock;
+        text-decoration: none;
+    }
+
+    .btn-primary {
+        color: white;
+    }
+}
+
+.btn {
+    border-radius: 10px;
+    padding: 8px 20px;
+}
+
+.btn-primary {
+    background-color: $shamrock;
+    border: none;
+
+    &:hover {
+        background-color: $shamrock-dark;
+    }
+}
+
+.btn-light {
+    background-color: white;
+    color: $shamrock;
+    border: 1px solid #28DD8D;
+
+    &:hover {
+
+        background-color: $shamrock;
+        color: white;
+    }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Mrs. Carroll Jast",
+        "rating": 2.4,
+        "price": 120450.02,
+        "id": "1"
+    },
+    {
+        "name": "Bruce Kub",
+        "rating": 4.4,
+        "price": 99999.99,
+        "id": "2"
+    },
+    {
+        "name": "Adrian Paucek",
+        "rating": 4.5,
+        "price": 175000,
+        "id": "3"
+    },
+    {
+        "name": "Mr. Jimmie Boyer",
+        "rating": 3.7,
+        "price": 132000,
+        "id": "4"
+    },
+    {
+        "name": "Raymond Douglas IV",
+        "rating": 2.9,
+        "price": 100000,
+        "id": "5"
+    },
+    {
+        "name": "Miss Nettie D'Amore",
+        "rating": 3.4,
+        "price": 119000,
+        "id": "6"
+    },
+    {
+        "name": "Dr. Brandon Ullrich",
+        "rating": 4.8,
+        "price": 200000,
+        "id": "7"
+    },
+    {
+        "name": "Myra Carter",
+        "rating": 2.4,
+        "price": 110000,
+        "id": "8"
+    },
+    {
+        "name": "Julio Ferry",
+        "rating": 2.5,
+        "price": 128297.2,
+        "id": "9"
+    },
+    {
+        "name": "Mr. Clint Cassin",
+        "rating": 3.1,
+        "price": 100340.67,
+        "id": "10"
+    }
+]

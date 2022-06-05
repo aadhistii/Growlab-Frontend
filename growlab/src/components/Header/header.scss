@@ -1,0 +1,20 @@
+@import "../../assets/main.scss";
+
+img {
+    height: 50px;
+    padding: 10px;
+}
+
+.btn {
+    border-radius: 10px;
+}
+
+.btn-primary {
+    background-color: $shamrock;
+    border-color: $shamrock;
+
+    &:hover {
+        background-color: $shamrock-dark;
+        border-color: $shamrock-dark;
+    }
+}

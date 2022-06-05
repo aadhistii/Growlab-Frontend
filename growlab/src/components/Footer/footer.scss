@@ -1,0 +1,26 @@
+@import '../../assets/main.scss';
+
+
+* {
+    color: white;
+
+    a {
+        color: white;
+
+        &:hover {
+            color: $shamrock;
+        }
+
+        &:active {
+            color: $shamrock-dark;
+        }
+    }
+}
+
+.footer {
+    background-color: $cyprus;
+}
+
+.logo {
+    height: 45px;
+}

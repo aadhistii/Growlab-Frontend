@@ -1,0 +1,64 @@
+@import '../../assets/main.scss';
+
+.text-mysin {
+    color: $mysin;
+    font-weight: bold;
+}
+
+.card {
+    box-shadow: 4px 4px 34px 30px rgba(196, 196, 196, 0.1);
+    border-radius: 20px;
+}
+
+img {
+    width: auto;
+    height: 75px;
+}
+
+i{
+    height: 20px;
+}
+
+.info {
+    color: silver;
+}
+
+.info:hover {
+    color: $shamrock;
+}
+
+.dropdown {
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-shadow: 4px 4px 34px 30px rgba(196, 225, 222, 0.05);
+    border-radius: 20px;
+}
+
+.dropdown-menu{
+    border-radius: 20px;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    background-color: $shamrock;
+    border-color: $shamrock;
+    text-align: center;
+    padding: 10px;
+}
+
+.button:hover {
+    color: white;
+    background-color: $shamrock-dark;
+}
+
+.sm-icon {
+    height: 20px;
+    margin: auto;
+}
+
+.grey{
+    padding: 10px;
+    background-color: #F8FAFB;
+    border-radius: 20px 0 20px 0;
+}
